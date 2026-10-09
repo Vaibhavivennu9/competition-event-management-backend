@@ -1,0 +1,1 @@
+# competition-event-management-backend
